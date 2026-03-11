@@ -1,0 +1,6 @@
+#!/bin/bash
+#Author: Afolabi Rachael
+#Program: WinMingle Community C Training
+#Description: This is a script that compile a C file, but does not link
+gcc -c $CFILE
+
