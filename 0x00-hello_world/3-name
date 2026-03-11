@@ -1,0 +1,6 @@
+#!/bin/bash
+#Author: Afolabi Rachael
+#Program: WinMingle Community C Training
+#Description: This is a script that compiles a C file and creates an executable named cisfun
+gcc -o cisfun $CFILE
+
